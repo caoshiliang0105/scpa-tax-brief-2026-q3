@@ -7,7 +7,7 @@
     make('withholding',{
       2:'VAT',4:'Issued Sep 3 · Effective Nov 1',5:'VAT withholding on payments by domestic entities to individuals',
       6:'For seven specified services, a domestic payer must withhold VAT and associated taxes and surcharges when the individual’s sales amount per transaction (day) reaches RMB 1,000 and the tax has not already been paid.',
-      7:'The filing party changes',8:'Affects net payment, tax clauses and next-month filing',9:'MOF and STA Announcement [2026] No. 28',10:'Nov 1, 2026',
+      7:'The party responsible for filing changes',8:'Affects net payment, tax clauses and next-month filing',9:'MOF and STA Bulletin [2026] No. 28',10:'Nov 1, 2026',
       11:'From November 1, 2026, a domestic entity purchasing any of seven specified services from an individual must determine, when making payment, whether it is required to withhold VAT and associated taxes and surcharges. A withholding return may still be required even when no tax is due.',
       12:'The per-transaction VAT threshold is RMB 1,000. Aggregate all consideration paid by one payer to the same individual for the same transaction or day. If the threshold is met and the individual has not paid the tax, the payer withholds upon payment.',
       13:[['Covered services','R&D, software, design, consulting, radio/film/TV production, cultural and education services.'],['Threshold and aggregation','The threshold is RMB 1,000 per transaction/day, inclusive. Aggregate all same-day consideration paid by one payer to the same individual.'],['Withholding and exception','Withhold on payment when the threshold is met and tax remains unpaid. Transactions covered by platform-assisted filing rules are excluded.']],
@@ -18,7 +18,7 @@
     }),
     make('dividend',{
       2:'Individual Income Tax',4:'Effective Sep 1',5:'20% IIT reinstated on dividends received by foreign individuals',
-      6:'Foreign individuals receiving dividends from foreign-invested enterprises are subject to 20% IIT withholding by the paying enterprise.',7:'Direct reduction in after-tax return',8:'New withholding and filing controls for paying enterprises',9:'MOF and STA Announcement [2026] No. 27',10:'Sep 1, 2026',
+      6:'Foreign individuals receiving dividends from foreign-invested enterprises are subject to 20% IIT withholding by the paying enterprise.',7:'Direct reduction in after-tax return',8:'New withholding and filing controls for paying enterprises',9:'MOF and STA Bulletin [2026] No. 27',10:'Sep 1, 2026',
       11:'The former exemption for dividends received by foreign individuals from foreign-invested enterprises no longer applies. Profit distribution, payment and IIT withholding should be controlled in one process.',
       12:'The paying enterprise generally withholds at 20%. If it fails to withhold, the individual remains responsible for paying the tax.',
       13:[['Income covered','Dividends and profit distributions received by a foreign individual from a foreign-invested enterprise.'],['Withholding agent','The foreign-invested enterprise that actually pays the dividend.'],['Timing','File within 15 days after the month of payment; if not withheld, the individual pays by June 30 of the following year.']],
@@ -28,7 +28,7 @@
     }),
     make('restricted',{
       2:'Individual Income Tax',4:'Effective Aug 28',5:'Tighter cost-basis reporting for transfers of restricted shares',
-      6:'For newly registered restricted shares whose cost basis was not reported as required, IIT is withheld and prepaid at 20% of gross transfer proceeds.',7:'Cost records determine the tax withheld and prepaid',8:'Tax reconciliation due by June 30 of the following year',9:'MOF, STA and CSRC Announcement [2026] No. 26',10:'Aug 28, 2026',
+      6:'For newly registered restricted shares whose cost basis was not reported as required, IIT is withheld and prepaid at 20% of gross transfer proceeds.',7:'Cost records determine the tax withheld and prepaid',8:'Tax reconciliation due by June 30 of the following year',9:'MOF, STA and CSRC Bulletin [2026] No. 26',10:'Aug 28, 2026',
       11:'Tax on restricted-share transfers now depends not only on proceeds but also on whether the cost basis entered the reporting chain on time. Missing cost data results in provisional withholding on gross proceeds.',
       12:'Where the cost basis for newly registered restricted shares was not reported, the securities institution may not estimate the cost and must withhold and prepay IIT at 20% of gross proceeds.',
       13:[['Identify the shares','Confirm whether the shares are newly registered restricted shares covered by the announcement.'],['Report cost basis','Submit genuine and complete supporting documents for original cost as required.'],['Annual settlement','If provisional and final tax differ, settle by June 30 of the year after transfer.']],
@@ -38,7 +38,7 @@
     }),
     make('vatboundary',{
       2:'VAT',4:'Issued Aug 27 · Effective Sep 1',5:'Input VAT treatment clarified for specified non-taxable transactions',
-      6:'The rules clarify the treatment of insurance proceeds, donations, damages for breach of contract, transfers of claims, sales discounts and waivers of VAT exemptions or reductions.',7:'The scope of required input VAT adjustments is refined',8:'The rules also affect sales-discount invoicing and waivers of VAT relief',9:'MOF and STA Announcement [2026] No. 25',10:'Sep 1, 2026',
+      6:'The rules clarify the treatment of insurance proceeds, donations, damages for breach of contract, transfers of claims, sales discounts and waivers of VAT exemptions or reductions.',7:'The scope of required input VAT adjustments is refined',8:'The rules also affect sales-discount invoicing and waivers of VAT relief',9:'MOF and STA Bulletin [2026] No. 25',10:'Sep 1, 2026',
       11:'The announcement aligns several VAT-law transition issues. Companies should review each transaction type rather than treating all non-taxable receipts alike.',
       12:'Six categories—including insurance proceeds, donations received and qualifying damages for breach of contract—are not treated as non-taxable transactions that require input VAT to be disallowed. Four specified categories remain subject to that treatment.',
       13:[['Classify the receipt','Separate insurance recoveries, donations, damages, free services and debt transfers.'],['Trace actual use','Determine how purchased goods or services are actually used and whether credit conditions are met.'],['Check documents','Review discount invoicing and filings for waiving incentives.']],
@@ -48,7 +48,7 @@
     }),
     make('battery',{
       2:'Consumption Tax',4:'Issued Jul 16 · Adjusted Sep 1',5:'Consumption tax reinstated on certain batteries',
-      6:'Specified batteries are taxed at 2% from September 2026 and 4% from September 2027; selected new battery products remain temporarily exempt.',7:'Pricing and margins are directly affected',8:'Classification, tax-paid raw-material ledgers and test reports are critical',9:'MOF, GACC and STA Announcement [2026] No. 20',10:'Sep 1, 2026',
+      6:'Specified batteries are taxed at 2% from September 2026 and 4% from September 2027; selected new battery products remain temporarily exempt.',7:'Pricing and margins are directly affected',8:'Classification, tax-paid raw-material ledgers and test reports are critical',9:'MOF, GACC and STA Bulletin [2026] No. 20',10:'Sep 1, 2026',
       11:'The rate changes and administrative rules take effect together. Manufacturers must classify products, use the correct invoice codes, maintain ledgers for consumption tax paid on qualifying raw materials and support exemptions with test reports.',
       12:'Listed batteries are taxed at 2% from September 2026 and 4% from September 2027. Exempt products must meet the prescribed national standards.',
       13:[['Classify products','Use technical parameters and national standards to distinguish taxable and exempt products.'],['Compute tax','Verify credits for tax paid on qualifying inputs used in continuous production.'],['File and retain','Use correct invoice codes, maintain credit ledgers and retain test reports.']],
@@ -57,8 +57,8 @@
       16:'Cells assembled into battery clusters and then an energy-storage system',17:'A company buys lithium-ion cells, assembles them into battery clusters, and integrates electrical, thermal-management, fire-protection and control systems into an energy-storage system. The battery cluster is a taxable battery pack; consumption tax is due at production, with qualifying input tax deductible by quantity used. The complete energy-storage system is equipment made with batteries and is not itself a taxable battery product.'
     }),
     make('trust',{
-      2:'Individual Income Tax',4:'Issued Jul 24',5:'IIT rules introduced for offshore trusts',
-      6:'The rules cover the contribution of assets to a trust, income arising during the trust term and distributions, with a 90-day compliance window for specified historical matters.',7:'Reporting obligations now extend across the trust life cycle',8:'Resident individuals generally file from Mar 1 to Jun 30 of the following year',9:'MOF and STA Announcement [2026] No. 21',10:'Relevant matters for tax year 2026',
+      2:'Individual Income Tax',4:'Issued Jul 24',5:'New individual income tax rules for offshore trusts',
+      6:'The rules cover the contribution of assets to a trust, income arising during the trust term and distributions, with a 90-day compliance window for specified historical matters.',7:'Reporting obligations now extend across the trust life cycle',8:'Resident individuals generally file from Mar 1 to Jun 30 of the following year',9:'MOF and STA Bulletin [2026] No. 21',10:'Relevant matters for tax year 2026',
       11:'Tax exposure is no longer assessed only when an offshore trust makes a distribution. Contributing assets to the trust, income arising during the trust term, termination, changes in status and specified benefits may each create tax filing obligations.',
       12:'When assets are contributed to the trust, a resident individual calculates income from the transfer of property as market value less original cost and allowable expenses. Trust income is reported annually whether or not distributed; income already taxed is not taxed again when distributed.',
       13:[['Identify the parties','Determine settlor, trustee, beneficiaries and control relationships.'],['Separate the stages','Analyse settlement, income accrual, asset disposals and distributions.'],['File on time','Resident individuals generally file from March 1 to June 30 of the following year.']],
@@ -67,8 +67,8 @@
       16:'Resident individual settles offshore financial assets into a trust',17:'A resident individual settles offshore financial assets with a market value of RMB 10 million, original cost of RMB 6 million and RMB 200,000 of allowable expenses. Property-transfer income on settlement is RMB 3.8 million. Subsequent dividends and disposal gains earned by the trust are reported annually according to their nature even if not distributed. Trust management, legal and investment-advisory fees cannot reduce taxable ongoing income.'
     }),
     make('reorg',{
-      2:'Enterprise Income Tax',4:'Issued Jul 8',5:'EIT treatment refined for mergers and divisions',
-      6:'Where relevant resident corporate shareholders holding more than 50% in aggregate agree with the reorganisation parties, the qualifying portion may use special tax treatment.',7:'Unanimous shareholder election no longer required',8:'Shareholder scope and the 12-month holding period remain critical',9:'STA Announcement [2026] No. 13',10:'Reorganisations occurring on or after Jan 1, 2026',
+      2:'Enterprise Income Tax',4:'Issued Jul 8',5:'Special corporate income tax treatment refined for mergers and demergers',
+      6:'Where relevant resident corporate shareholders holding more than 50% in aggregate agree with the reorganisation parties, the qualifying portion may use special tax treatment.',7:'Unanimous shareholder election no longer required',8:'Shareholder scope and the 12-month holding period remain critical',9:'STA Bulletin [2026] No. 13',10:'Reorganisations occurring on or after Jan 1, 2026',
       11:'The revised rules permit qualifying shareholders and the corresponding assets and liabilities to use special tax treatment without making the entire transaction tax-deferred.',
       12:'Relevant resident corporate shareholders holding more than 50% in aggregate may elect special treatment for their corresponding portion; the remainder follows general tax treatment.',
       13:[['Map shareholders','Identify resident corporate shareholders and their aggregate ownership.'],['Document agreement','The reorganisation parties and qualifying shareholders should evidence their election in writing.'],['Monitor conditions','Track the 5% threshold, top-ten shareholders and the 12-month holding requirement.']],
@@ -78,7 +78,7 @@
     }),
     make('exchange',{
       2:'Enterprise Income Tax',4:'Issued Jul 31',5:'Instalment recognition of gains from qualifying non-monetary asset exchanges',
-      6:'Eligible integrated-circuit and industrial-machine-tool enterprises may recognise exchange gains evenly over no more than five years; early disposal ends the deferral.',7:'Defers part of the EIT cash outflow',8:'Limited to qualifying enterprises and transactions occurring in 2026–2028',9:'MOF and STA Announcement [2026] No. 23',10:'Transactions in 2026–2028',
+      6:'Eligible integrated-circuit and industrial-machine-tool enterprises may recognise exchange gains evenly over no more than five years; early disposal ends the deferral.',7:'Defers part of the current corporate income tax cash outflow',8:'Limited to qualifying enterprises and transactions occurring in 2026–2028',9:'MOF and STA Bulletin [2026] No. 23',10:'Transactions in 2026–2028',
       11:'The relief addresses tax on an accounting gain where little cash is received; it is a timing deferral, not an exemption. Eligibility and a five-year roll-forward ledger are essential.',
       12:'Exchange gains may be recognised evenly over up to five years. Losses cannot be spread, and early disposal of the acquired asset accelerates remaining gain.',
       13:[['Confirm eligibility','The entity must be a specified integrated-circuit or industrial-machine-tool enterprise.'],['Confirm transaction','Verify a non-monetary asset exchange within the prescribed period.'],['Track the asset','Monitor disposal, deregistration and other acceleration events.']],
@@ -108,7 +108,7 @@
     }),
     make('land',{
       2:'Urban and Town Land Use Tax',4:'Issued Jul 27 · Adjusted Sep 1',5:'Phased withdrawal of land use tax relief for the energy and resources sectors',
-      6:'Relief under certain superseded rules is reduced by 50% for one year and withdrawn from September 2027; land used for specified purposes remains exempt.',7:'Land holding costs increase in stages',8:'Use, location and title records determine eligibility for relief',9:'MOF and STA Announcement [2026] No. 22',10:'Sep 1, 2026',
+      6:'Relief under certain superseded rules is reduced by 50% for one year and withdrawn from September 2027; land used for specified purposes remains exempt.',7:'Land holding costs increase in stages',8:'Use, location and title records determine eligibility for relief',9:'MOF and STA Bulletin [2026] No. 22',10:'Sep 1, 2026',
       11:'The policy does not remove all tax relief. It provides a one-year transition for relief granted under the superseded rules and restates exemptions for land used for specified production, safety and transport purposes.',
       12:'Land previously relieved under superseded rules receives a 50% reduction for one year and is then fully taxed; land meeting the newly listed use conditions remains exempt.',
       13:[['Identify the sector','Apply the separate provisions for the power, oil and gas, coal and other sectors.'],['Review each parcel','Classify each parcel by title, location and use as exempt, entitled to a 50% reduction, or fully taxable.'],['Update the tax records','From September 2026, update the land information reported for tax purposes and retain supporting evidence.']],
@@ -119,8 +119,8 @@
   ];
 
   const sourceLabels={
-    '管理办法原文':'Administrative Measures','税务总局解读':'STA Interpretation','申报事项公告':'Filing Announcement','起征点标准官方解读':'Official Threshold Guidance','政策原文':'Official Policy','税收政策原文':'Tax Policy','征收管理公告':'Administration Announcement','税务总局问答':'STA Q&A','所得税政策原文':'Income Tax Policy','征收管理规定':'Administration Rules','征管公告原文':'Administration Announcement','官方政策解读':'Official Interpretation','年度名单通知':'Annual List Notice','基础优惠政策':'Underlying Incentive Policy','工信部政策页面':'MIIT Policy Page','试点实施办法':'Pilot Measures','部门答记者问':'Official Press Q&A',
-    '德勤：转让上市公司限售股个税新规':'Deloitte: IIT rules for transfers of restricted shares','德勤：不得抵扣非应税交易边界':'Deloitte: Input VAT treatment of specified non-taxable transactions','德勤：电池产品消费税新规解读':'Deloitte: New consumption tax rules for batteries','毕马威：离岸信托个税新规':'KPMG: New IIT rules for offshore trusts','德勤：离岸信托个税新政解读':'Deloitte: New IIT policy for offshore trusts','德勤：重组企业所得税新政':'Deloitte: New EIT policy for enterprise reorganisations'
+    '管理办法原文':'Administrative Measures','税务总局解读':'STA Interpretation','申报事项公告':'Filing Bulletin','起征点标准官方解读':'Official Threshold Guidance','政策原文':'Official Policy','税收政策原文':'Tax Policy','征收管理公告':'Administrative Bulletin','税务总局问答':'STA Q&A','所得税政策原文':'Income Tax Policy','征收管理规定':'Administrative Rules','征管公告原文':'Administrative Bulletin','官方政策解读':'Official Interpretation','年度名单通知':'Annual List Notice','基础优惠政策':'Underlying Incentive Policy','工信部政策页面':'MIIT Policy Page','试点实施办法':'Pilot Measures','部门答记者问':'Official Press Q&A',
+    '德勤：转让上市公司限售股个税新规':'Deloitte: IIT rules for transfers of restricted shares','德勤：不得抵扣非应税交易边界':'Deloitte: Input VAT treatment of specified non-taxable transactions','德勤：电池产品消费税新规解读':'Deloitte: New consumption tax rules for batteries','毕马威：离岸信托个税新规':'KPMG: New IIT rules for offshore trusts','德勤：离岸信托个税新政解读':'Deloitte: New IIT rules for offshore trusts','德勤：重组企业所得税新政':'Deloitte: New corporate income tax rules for enterprise reorganisations'
   };
   const sourceTypes={'官方文件':'Official document','官方解读':'Official guidance','专业解读':'Professional insight'};
   EN.forEach((p,i)=>{p[18]=ZH[i][18].map(x=>[sourceLabels[x[0]]||x[0],x[1],sourceTypes[x[2]]||x[2]])});
